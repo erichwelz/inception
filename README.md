@@ -1,1 +1,1 @@
-Bitmaker Labs Week 1: First experience colloborating with Github
+Bitmaker Labs Week 1: Assignment guiding learning of git/github & Unix commands
